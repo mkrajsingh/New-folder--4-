@@ -1,11 +1,4 @@
-// Optional JS functionality (can be expanded later)
-// Currently used for button click (demo)
-document.querySelectorAll("button").forEach((btn) => {
-    btn.addEventListener("click", () => {
-      alert("Appointment feature coming soon!");
-    });
-  });
-  
+
 
   // Main Slider Logic
 const mainSlider = document.querySelector('.main-slide-container');
